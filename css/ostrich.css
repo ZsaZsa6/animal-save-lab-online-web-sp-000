@@ -8,6 +8,8 @@ html {
   right: 0;
 }
 
-@media screen only and ()
+@media screen only and (max-width:1320px) {
+  #ostrich 
+}
 
 /* Write your solution here */
