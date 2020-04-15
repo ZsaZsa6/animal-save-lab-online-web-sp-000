@@ -9,7 +9,9 @@ html {
 }
 
 @media screen only and (max-width:1320px) {
-  #ostrich 
+  #ostrich {
+    top:-50px;
+  }
 }
 
 /* Write your solution here */
