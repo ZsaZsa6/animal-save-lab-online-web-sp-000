@@ -8,6 +8,8 @@ html {
   right: 120px;
 }
 @media only screen (min-width:406px) and (max-width:1170px) {
-  #monkey {}
+  #monkey {
+    right: 0
+  }
 }
 /* Write your solution here */
