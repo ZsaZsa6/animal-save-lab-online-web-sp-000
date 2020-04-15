@@ -9,7 +9,8 @@ html {
 }
 @media only screen (min-width:406px) and (max-width:1170px) {
   #monkey {
-    right: 0
+    right: 0;
+    top: 0;
   }
 }
 /* Write your solution here */
